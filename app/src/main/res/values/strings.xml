@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Spinner-DroupDownBox</string>
+
+    <string-array name="places">
+        <items>Select Place</items>
+        <items>Kuldhara</items>
+        <items>Mana</items>
+        <items>Khaziar</items>
+        <items>Rameswaram</items>
+        <items>Cherapunji</items>
+        <items>Manali</items>
+        <items>Manali</items>
+    </string-array>
+
+</resources>
